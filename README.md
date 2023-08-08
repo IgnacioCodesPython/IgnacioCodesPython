@@ -35,6 +35,6 @@ Okay, bye! On this part, i had to go to the bathroom, but this is it for now. By
 
 Oh! Also forgot to tell you, that i have a playlist of my new series: **Ignacio Teaches**!
 
-You can also see them separatly in my channel's videos. I only have the PSeInt and Mobile editions, but the next edition will be the **Python** one.
+You can also see them separatly in my channel's videos. I only have the **PSeInt** and **Mobile** editions, but the next edition will be the **Python** one.
 
 Finally, bye.
