@@ -31,7 +31,7 @@ car.drivecar()
 ```
 
 ## Logging off
-Okay, bye! On this part, i had to go to the bathroom, but this is it for now. Bye-bye!
+Okay, bye! This is it for now. Bye-bye!
 
 Oh! Also forgot to tell you, that i have a playlist of my new series: **Ignacio Teaches**!
 
